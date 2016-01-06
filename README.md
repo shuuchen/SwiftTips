@@ -1,2 +1,2 @@
 # SwiftTips
-Everything you want to know about Swift Language
+Small tips & code snippets of the Swift programming language guide (version 2.1)
